@@ -1,3 +1,10 @@
+# Build data
+build/
+dist/
+samples/
+temp/
+tsdoc-metadata.json
+
 # Logs
 logs
 *.log
